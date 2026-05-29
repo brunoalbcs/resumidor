@@ -105,4 +105,4 @@ with col_direita:
                         # Tratamento de erro caso a chave esteja errada ou a internet caia
                         st.error(f"Ocorreu um erro ao comunicar com a IA: {erro}")
     else:
-        st.warning("Aguardando você enviar um documento na janela ao lado.")
+        st.warning("Aguardando você enviar um documento.")
