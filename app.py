@@ -5,7 +5,7 @@ import os
 
 # 1. CONFIGURAÇÃO DA PÁGINA
 # Deixa a página mais larga para acomodar melhor a janela dividida (esquerda/direita)
-st.set_page_config(page_title="Resumidor Di2win", layout="wide")
+st.set_page_config(page_title="Resumidor de Documentos", layout="wide")
 
 st.title("Resumidor de Documentos")
 st.write("Faça o upload do documento para resumir.")
